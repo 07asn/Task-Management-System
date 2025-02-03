@@ -4,13 +4,8 @@ Welcome to Task Manager! This project provides a seamless and intuitive platform
 
 ---
 
-## 👨‍💻 About The Team  
-
-- **Ahmad alnajjar**: Scrum Master  
-- **abdullah alghawanmeh**: Product Owner  
-- **mohammaed abu dayyeh**: Developer  
-- **Hasan Mansour**: Developer  
-- **mohammed alsarrawi**: QA Specialist  
+## 👨‍💻 About Me  
+I'm Hasan Omar Hasan Mansour, a passionate MERN-Stack Developer & Java Developer. I love building innovative web applications that make an impact.
 
 ---
 
